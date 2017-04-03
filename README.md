@@ -2,10 +2,11 @@
 Windows executable Map Viewer
 
 
-Setup process
+Proposed setup and build process
 
 1. Download and install OSGeo4W64 using Advanced install, ensure qgis, pyqt4 and others
-
+2. Install pyinstaller to OSGeo4W64 python27
+3. Run create_exe.bat 
 
 This app is an adaptation of an application called 'Map Viewer' from the book 'Building Map Applications with QGIS', by Erik Westra and published by PACKT.
 
