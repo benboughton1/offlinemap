@@ -16,6 +16,5 @@ I have also borrowed code from this GIS Stack Exchange answer: http://gis.stacke
 
 Currently the application works by running run.bat.
 
-I aim to have it built to a Windows executable (exe) file but at the moment this fails which is main reason I have shared this repository, to try and have a simple example solution that I can leave online for reference. 
-
+App now compiles to exe on Windows 10 machine with create_exe.bat.
 
