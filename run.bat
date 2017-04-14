@@ -15,5 +15,5 @@ ECHO OSGeo path is: %OSGEO4W_ROOT%
 ECHO Getting QGIS libs from: %QGIS%
 ECHO Python loaded from: %PYTHONHOME%
 
-python -v externalApp.py
+python -v app.py
 pause

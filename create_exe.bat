@@ -15,5 +15,5 @@ ECHO OSGeo path is: %OSGEO4W_ROOT%
 ECHO Getting QGIS libs from: %QGIS%
 ECHO Python loaded from: %PYTHONHOME%
 
-pyinstaller -d --clean -F -y externalApp.spec
+pyinstaller -d --clean -F -y app.spec
 pause
